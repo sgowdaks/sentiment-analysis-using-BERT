@@ -6,3 +6,5 @@ https://colab.research.google.com/drive/1niyOR5PeD7A9jn3KHwg1QfeR6uiAfgLY?usp=sh
 - This code can be run directly by clicking on the link provided above or you can use Google colab or jupyter Noterbook.
 - You have to run this file on GPU. For accessing the free GPU's that google provides, Edit --> Notebook settings --> GPU
 - If you want to use Kaggle datasets, then all you have to do is just uncomment a few cells.
+
+I sincerely thank Prof. Mandy for all the guidance and Phillip Kim for [this](https://medium.com/swlh/step-by-step-bert-explanation-implementation-part-1-preprocessing-dbfa19787302) article
